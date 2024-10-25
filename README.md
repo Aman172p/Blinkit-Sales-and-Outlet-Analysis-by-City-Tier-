@@ -7,16 +7,16 @@ This dashboard is about Blinkit analyzes sales trends and outlet establishment p
 Key Insights
 
 1. Product Sales by City Tier
-•	Top-selling Products*:
-•	Tier 3 Cities: Highest sales in "Fruits and Vegetables" at 71K, followed by "Snacks" at 69K.
-•	Tier 1 Cities: "Fruits and Vegetables" at 50K and "Snacks" at 49K are the top products.
-•	Tier 2 Cities: "Fruits and Vegetables" leads with 58K, closely followed by "Snacks" at 57K.
-   - Across all cities, Vegetables and Snacks consistently rank as the top two products* by sales volume.
+  •	Top-selling Products*:
+  •	Tier 3 Cities: Highest sales in "Fruits and Vegetables" at 71K, followed by "Snacks" at 69K.
+  •	Tier 1 Cities: "Fruits and Vegetables" at 50K and "Snacks" at 49K are the top products.
+  •	Tier 2 Cities: "Fruits and Vegetables" leads with 58K, closely followed by "Snacks" at 57K.
+     - Across all cities, Vegetables and Snacks consistently rank as the top two products* by sales volume.
 
 2. Outlet Establishment Trends
-•	Tier 1 Cities: Significant decline, with sales dropping from 132K in 2016 to 74K in 2018.
-•	Tier 2 Cities : Slight decline observed, with sales at 133K in 2017, reducing slightly to 129K by 2020.
-•	Tier 3 Cities: Growth trend noted, with sales increasing from 78K in 2012 to 131K by 2021.
+  •	Tier 1 Cities: Significant decline, with sales dropping from 132K in 2016 to 74K in 2018.
+  •	Tier 2 Cities : Slight decline observed, with sales at 133K in 2017, reducing slightly to 129K by 2020.
+  •	Tier 3 Cities: Growth trend noted, with sales increasing from 78K in 2012 to 131K by 2021.
 
 3. Highest Sales by Outlet Type and Size
 •	Tier 3 Cities:
